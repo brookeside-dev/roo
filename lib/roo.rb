@@ -2,7 +2,6 @@ module Roo
 
   VERSION = '1.10.3'
 
-  autoload :Spreadsheet, 'roo/spreadsheet'
   autoload :GenericSpreadsheet, 'roo/generic_spreadsheet'
 
   autoload :Openoffice,         'roo/openoffice'

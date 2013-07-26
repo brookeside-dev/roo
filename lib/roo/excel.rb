@@ -1,4 +1,3 @@
-require 'spreadsheet'
 #require 'lib/roo/generic_spreadsheet'
 #require 'parseexcel'
 CHARGUESS =
